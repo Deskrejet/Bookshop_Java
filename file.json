@@ -1,0 +1,391 @@
+[ {
+  "id" : 1,
+  "name" : "store_1",
+  "location" : {
+    "id" : 1,
+    "address" : "address_1",
+    "store_id" : 1
+  },
+  "books" : [ {
+    "id" : 1,
+    "name" : "book_1",
+    "store_id" : 1,
+    "author" : {
+      "id" : 1,
+      "name" : "autor_1",
+      "book_id" : 1
+    },
+    "estimation" : {
+      "id" : 1,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 1
+    }
+  }, {
+    "id" : 2,
+    "name" : "book_2",
+    "store_id" : 1,
+    "author" : {
+      "id" : 2,
+      "name" : "autor_2",
+      "book_id" : 2
+    },
+    "estimation" : {
+      "id" : 2,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 2
+    }
+  } ]
+}, {
+  "id" : 2,
+  "name" : "store_2",
+  "location" : {
+    "id" : 2,
+    "address" : "address_2",
+    "store_id" : 2
+  },
+  "books" : [ {
+    "id" : 3,
+    "name" : "book_3",
+    "store_id" : 2,
+    "author" : {
+      "id" : 3,
+      "name" : "autor_2",
+      "book_id" : 3
+    },
+    "estimation" : {
+      "id" : 3,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 3
+    }
+  }, {
+    "id" : 4,
+    "name" : "book_4",
+    "store_id" : 2,
+    "author" : {
+      "id" : 4,
+      "name" : "autor_4",
+      "book_id" : 4
+    },
+    "estimation" : {
+      "id" : 4,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 4
+    }
+  } ]
+}, {
+  "id" : 3,
+  "name" : "store_3",
+  "location" : {
+    "id" : 3,
+    "address" : "address_3",
+    "store_id" : 3
+  },
+  "books" : [ {
+    "id" : 5,
+    "name" : "book_5",
+    "store_id" : 3,
+    "author" : {
+      "id" : 5,
+      "name" : "autor_3",
+      "book_id" : 5
+    },
+    "estimation" : {
+      "id" : 5,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 5
+    }
+  }, {
+    "id" : 6,
+    "name" : "book_6",
+    "store_id" : 3,
+    "author" : {
+      "id" : 6,
+      "name" : "autor_6",
+      "book_id" : 6
+    },
+    "estimation" : {
+      "id" : 6,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 6
+    }
+  } ]
+}, {
+  "id" : 4,
+  "name" : "store_4",
+  "location" : {
+    "id" : 4,
+    "address" : "address_4",
+    "store_id" : 4
+  },
+  "books" : [ {
+    "id" : 7,
+    "name" : "book_7",
+    "store_id" : 4,
+    "author" : {
+      "id" : 7,
+      "name" : "autor_4",
+      "book_id" : 7
+    },
+    "estimation" : {
+      "id" : 7,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 7
+    }
+  }, {
+    "id" : 8,
+    "name" : "book_8",
+    "store_id" : 4,
+    "author" : {
+      "id" : 8,
+      "name" : "autor_8",
+      "book_id" : 8
+    },
+    "estimation" : {
+      "id" : 8,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 8
+    }
+  } ]
+}, {
+  "id" : 5,
+  "name" : "store_5",
+  "location" : {
+    "id" : 5,
+    "address" : "address_5",
+    "store_id" : 5
+  },
+  "books" : [ {
+    "id" : 9,
+    "name" : "book_9",
+    "store_id" : 5,
+    "author" : {
+      "id" : 9,
+      "name" : "autor_5",
+      "book_id" : 9
+    },
+    "estimation" : {
+      "id" : 9,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 9
+    }
+  }, {
+    "id" : 10,
+    "name" : "book_10",
+    "store_id" : 5,
+    "author" : {
+      "id" : 10,
+      "name" : "autor_10",
+      "book_id" : 10
+    },
+    "estimation" : {
+      "id" : 10,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 10
+    }
+  } ]
+}, {
+  "id" : 6,
+  "name" : "store_6",
+  "location" : {
+    "id" : 6,
+    "address" : "address_6",
+    "store_id" : 6
+  },
+  "books" : [ {
+    "id" : 11,
+    "name" : "book_11",
+    "store_id" : 6,
+    "author" : {
+      "id" : 11,
+      "name" : "autor_6",
+      "book_id" : 11
+    },
+    "estimation" : {
+      "id" : 11,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 11
+    }
+  }, {
+    "id" : 12,
+    "name" : "book_12",
+    "store_id" : 6,
+    "author" : {
+      "id" : 12,
+      "name" : "autor_12",
+      "book_id" : 12
+    },
+    "estimation" : {
+      "id" : 12,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 12
+    }
+  } ]
+}, {
+  "id" : 7,
+  "name" : "store_7",
+  "location" : {
+    "id" : 7,
+    "address" : "address_7",
+    "store_id" : 7
+  },
+  "books" : [ {
+    "id" : 13,
+    "name" : "book_13",
+    "store_id" : 7,
+    "author" : {
+      "id" : 13,
+      "name" : "autor_7",
+      "book_id" : 13
+    },
+    "estimation" : {
+      "id" : 13,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 13
+    }
+  }, {
+    "id" : 14,
+    "name" : "book_14",
+    "store_id" : 7,
+    "author" : {
+      "id" : 14,
+      "name" : "autor_14",
+      "book_id" : 14
+    },
+    "estimation" : {
+      "id" : 14,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 14
+    }
+  } ]
+}, {
+  "id" : 8,
+  "name" : "store_8",
+  "location" : {
+    "id" : 8,
+    "address" : "address_8",
+    "store_id" : 8
+  },
+  "books" : [ {
+    "id" : 15,
+    "name" : "book_15",
+    "store_id" : 8,
+    "author" : {
+      "id" : 15,
+      "name" : "autor_8",
+      "book_id" : 15
+    },
+    "estimation" : {
+      "id" : 15,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 15
+    }
+  }, {
+    "id" : 16,
+    "name" : "book_16",
+    "store_id" : 8,
+    "author" : {
+      "id" : 16,
+      "name" : "autor_16",
+      "book_id" : 16
+    },
+    "estimation" : {
+      "id" : 16,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 16
+    }
+  } ]
+}, {
+  "id" : 9,
+  "name" : "store_9",
+  "location" : {
+    "id" : 9,
+    "address" : "address_9",
+    "store_id" : 9
+  },
+  "books" : [ {
+    "id" : 17,
+    "name" : "book_17",
+    "store_id" : 9,
+    "author" : {
+      "id" : 17,
+      "name" : "autor_9",
+      "book_id" : 17
+    },
+    "estimation" : {
+      "id" : 17,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 17
+    }
+  }, {
+    "id" : 18,
+    "name" : "book_18",
+    "store_id" : 9,
+    "author" : {
+      "id" : 18,
+      "name" : "autor_18",
+      "book_id" : 18
+    },
+    "estimation" : {
+      "id" : 18,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 18
+    }
+  } ]
+}, {
+  "id" : 10,
+  "name" : "store_10",
+  "location" : {
+    "id" : 10,
+    "address" : "address_10",
+    "store_id" : 10
+  },
+  "books" : [ {
+    "id" : 19,
+    "name" : "book_19",
+    "store_id" : 10,
+    "author" : {
+      "id" : 19,
+      "name" : "autor_10",
+      "book_id" : 19
+    },
+    "estimation" : {
+      "id" : 19,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 19
+    }
+  }, {
+    "id" : 20,
+    "name" : "book_20",
+    "store_id" : 10,
+    "author" : {
+      "id" : 20,
+      "name" : "autor_20",
+      "book_id" : 20
+    },
+    "estimation" : {
+      "id" : 20,
+      "score" : 4,
+      "text" : "text_",
+      "book_id" : 20
+    }
+  } ]
+} ]

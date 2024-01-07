@@ -1,0 +1,11 @@
+rootProject.name = 'ROMA_M_BOOKSHOP'
+include 'model'
+include 'json_module'
+include 'generator'
+include 'mains'
+include 'support_module'
+include 'databace'
+include 'console'
+include 'servlet'
+include 'schema'
+
